@@ -12,6 +12,10 @@ Telegram-бот для получения актуального курса до
 - BeautifulSoup4
 - Requests
 
+- ## Контакты
+- Telegram: [@KANEKANEDIT](https://t.me/KANEKANEDIT)
+- GitHub: [kurdukovplay-ops](https://github.com/kurdukovplay-ops)
+
 ## Запуск
 ```bash
 pip install pyTelegramBotAPI beautifulsoup4 requests
